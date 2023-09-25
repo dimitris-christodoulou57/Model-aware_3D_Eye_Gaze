@@ -1,0 +1,28 @@
+[build-system]
+requires = ["flit"]
+build-backend = "flit.buildapi"
+
+[tool.flit.metadata]
+module = "pytorch_revgrad"
+author = "Jan Freyberg"
+author-email = "jan.freyberg@gmail.com"
+home-page = "https://github.com/janfreyberg/pytorch-revgrad"
+classifiers = ["License :: OSI Approved :: MIT License"]
+requires-python = ">=3.5"
+description-file="README.md"
+requires = [
+    "numpy",
+    "torch>=1.0.0"
+]
+
+[tool.flit.metadata.requires-extra]
+test = [
+    "pytest",
+    "pytest-cov",
+    "flake8",
+    "pytest-flake8",
+    "coveralls"
+]
+dev = [
+    "ipython"
+]

@@ -1,0 +1,15 @@
+dist: xenial
+language: python
+notifications:
+  email: false
+python:
+  - "3.5"
+  - "3.6"
+  - "3.7"
+  - "3.8"
+install:
+  - pip install flit
+  - flit install
+script:
+  - python -m pytest --cov src/
+  - coveralls
