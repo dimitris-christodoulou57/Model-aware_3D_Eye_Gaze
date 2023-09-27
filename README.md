@@ -74,7 +74,7 @@ python -u run.py \
 --path_data='.../Datasets/All' \
 --path2MasterKey='.../Datasets/MasterKey' \
 --path_exp_tree='.../Results' \
---weiths_path='.../pretrained/last.pt' \
+--weiths_path='.../pretrained/all_losses/results/last.pt' \
 --model='res_50_3' \
 --exp_name='pretrained_sem'
 ```
