@@ -10,7 +10,7 @@ The task of predicting 3D eye gaze from eye images can be performed either by (a
 
 In this work, we propose to predict 3D eye gaze from weak supervision of eye semantic segmentation masks and direct supervision of a few 3D gaze vectors. The proposed method combines the best of both worlds by leveraging large amounts of weak annotations--which are easy to obtain, and only a few 3D gaze vectors--which alleviate the difficulty of fitting 3D eye models on the semantic segmentation of eye images. Thus, the eye gaze vectors, used in the model fitting, are directly supervised using the few-shot gaze labels. Additionally, we propose a transformer-based network architecture, that serves as a solid baseline for our improvements. Our experiments in diverse settings illustrate the significant benefits of the proposed method, achieving about 5 degrees lower angular gaze error over the baseline, when only 0.05% 3D annotations of the training images are used.
 
-[['Paper']()][['Project']()][['Dataset'](https://www.hci.uni-tuebingen.de/publications/fuhl2021teyed/)][['BibTex']()]
+[['Paper']()][['Project']()][['Dataset'](https://www.hci.uni-tuebingen.de/publications/fuhl2021teyed/)][['BibTex'](#citing-this-work)]
 
 ![Desing](images/teaser.jpg)
 
