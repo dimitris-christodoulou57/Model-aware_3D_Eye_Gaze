@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Feb  5 14:53:54 2021
+This started as a copy of https://bitbucket.org/RSKothari/multiset_gaze/src/master/ 
 
-@author: rakshit
+Copyright (c) 2021 Rakshit Kothari, Aayush Chaudhary, Reynold Bailey, Jeff Pelz, 
+and Gabriel Diaz
 
 This scrip extracts two types of video sequences from the Gaze-in-Wild project
 A) Calibration eye and scene videos including the VOR sequence

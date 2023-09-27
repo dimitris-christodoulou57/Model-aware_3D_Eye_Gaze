@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar  9 15:49:25 2021
+This started as a copy of https://bitbucket.org/RSKothari/multiset_gaze/src/master/ 
+with additional changes and modifications to adjust it to our implementation. 
 
-@author: rakshit
+Copyright (c) 2021 Rakshit Kothari, Aayush Chaudhary, Reynold Bailey, Jeff Pelz, 
+and Gabriel Diaz
 """
 
 import os

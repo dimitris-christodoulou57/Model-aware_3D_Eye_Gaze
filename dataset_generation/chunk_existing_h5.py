@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Mar  7 12:01:12 2021
+This started as a copy of https://bitbucket.org/RSKothari/multiset_gaze/src/master/
 
-@author: rakshit
+Copyright (c) 2021 Rakshit Kothari, Aayush Chaudhary, Reynold Bailey, Jeff Pelz, 
+and Gabriel Diaz
 """
 
 import h5py

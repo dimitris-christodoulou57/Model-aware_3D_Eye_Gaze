@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Feb  7 20:26:31 2021
+This started as a copy of https://bitbucket.org/RSKothari/multiset_gaze/src/master/ 
+with additional changes and modifications to adjust it to our implementation. 
 
-@author: rakshit
+Copyright (c) 2021 Rakshit Kothari, Aayush Chaudhary, Reynold Bailey, Jeff Pelz, 
+and Gabriel Diaz
 
 The purpose of this script is to verify if train/test objects are working as
 intended. This function will iterate over H5 files and display groundtruth
