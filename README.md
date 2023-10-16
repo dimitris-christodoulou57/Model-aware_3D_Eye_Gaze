@@ -71,9 +71,9 @@ You can download the pre-trained networks from the following table.
 
 | Model | Download |
 | ------------------- | :------------------: |
-| Gaze (Ours)         | [download]() |
-| Segmentation        | [download]() |
-| Segmentation + Gaze + Center | [download]() |
+| Gaze (Ours)         | [download](https://drive.google.com/drive/folders/12LZP_o-huu8bBCK082RY7XhtxrtR12R0?usp=share_link) |
+| Segmentation        | [download](https://drive.google.com/drive/folders/1oEk-ORefO3o8HStWjDL9Ttmll2sdjFRS?usp=share_link) |
+| Segmentation + Gaze + Center | [download](https://drive.google.com/drive/folders/1THcA80u1llQvplL_V5Q510YrsCag7_BS?usp=share_link) |
 
 
 ```
