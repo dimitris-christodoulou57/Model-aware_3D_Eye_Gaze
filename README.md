@@ -1,6 +1,6 @@
 # Model-aware_3D_Eye_Gaze
 
-**[ETH ZURICH, Computer Vision Lab (CVL)](https://research.facebook.com/file/310601331303789/Consistent-View-Synthesis-with-Pose-Guided-Diffusion-Models.pdf)**
+**[ETH ZURICH, Computer Vision Lab (CVL)](https://vision.ee.ethz.ch)**
 
 Nikola Popovic, Dimitrios Christodoulou, Danda Pani Paudel, Xi Wang, Luc Van Gool
 
