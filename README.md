@@ -111,7 +111,7 @@ Please cite as:
 ```
 @inproceedings{modelaware3deye,
   title = {Model-aware 3D Eye Gaze from Weak and Few-shot Supervisions},
-  author = {Nikola Popovic and Dimitrios Christodoulou and Danda Pani Paudel and Xi              Wang and Luc Van Gool},
+  author = {Nikola Popovic and Dimitrios Christodoulou and Danda Pani Paudel and Xi Wang and Luc Van Gool},
   booktitle = {ISMAR '23},
   year = {2023},
 }
