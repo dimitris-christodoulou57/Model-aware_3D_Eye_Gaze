@@ -67,7 +67,14 @@ python -u run.py \
 
 Moreover, our code gives you the chance to save the model's weights to be able to continue training, validating only, or testing only. To activate one of these features, the following arguments should be chances respectively, continue training by specifying the path to weights using the weights_path argument, only_valid=1, only_test=1.
 
-You can find the pre-trained network using only segmentation masks as ground, without using any 3D gaze vector, in the folder pretrained.
+You can download the pre-trained networks from the following table. 
+
+| Model | Download |
+| ------------------- | :------------------: |
+| Gaze (Ours)         | [download]() |
+| Segmentation        | [download]() |
+| Segmentation + Gaze + Center | [download]() |
+
 
 ```
 python -u run.py \
