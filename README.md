@@ -126,6 +126,6 @@ Please cite as:
 
 ## Base Code
 
-Our project builds upon the initial work 'EllSeg: An Ellipse Segmentation Framework for Robust Gaze Tracking' by Rakshit Kothari, Aayush Chaudhary, Reynold Bailey, Jeff Pelz, and Gabriel Diaz, which served as the foundation for our development. We would like to express our gratitude for their valuable contribution.
+Our project builds upon the initial work [EllSeg: An Ellipse Segmentation Framework for Robust Gaze Tracking](https://arxiv.org/abs/2007.09600) by Rakshit Kothari, Aayush Chaudhary, Reynold Bailey, Jeff Pelz, and Gabriel Diaz, which served as the foundation for our development. We would like to express our gratitude for their valuable contribution.
 
 Their [bitbucket repo](https://bitbucket.org/RSKothari/multiset_gaze/src/master/) was used as a skeleton for our work. Leveraging their repository, we had the opportunity to implement additional functionalities and modify existing ones to align it with our implementation. We introduced the 3D differentiable eye module and new losses to integrate the new module into the training process. Additionally, we introduced a transformer-based regression module capable of capturing temporal constraints, taking as input features extracted from a ResNet backbone.
